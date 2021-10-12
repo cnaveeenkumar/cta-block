@@ -1,0 +1,20 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-cta-block {
+	background-color: transparent;
+	color: #fff;
+	padding: 2px;
+}
+.wp-block-create-block-cta-block a {
+    text-decoration: none;
+    color: #fff;
+    width: 150px;
+    background: #cd2653;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
